@@ -1,0 +1,66 @@
+{
+    "name": "Pusati 360",
+    "short_name": "Pusati 360",
+    "description": "En son teknolojik gelişmeler, yerli üretim projeleri ve küresel savunma stratejileri hakkında derinlemesine bilgi. Kara, deniz, hava ve siber güvenlik alanlarındaki en son yenilikleri, insansız sistemleri, geleceğin savaş teknolojilerini ve Türkiye'nin savunma sanayiindeki yükselişini yakından takip ediyoruz.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#22c55e",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "lang": "tr",
+    "categories": [
+        "technology",
+        "news",
+        "education"
+    ],
+    "icons": [
+        {
+            "src": "/pusati360-1.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/pusati360-2.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/pusati360-1.png",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Pusati 360 Ana Sayfa"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "YouTube Kanalı",
+            "short_name": "YouTube",
+            "description": "Pusati 360 YouTube kanalını ziyaret et",
+            "url": "https://www.youtube.com/@pusati360",
+            "icons": [
+                {
+                    "src": "/pusati360-1.png",
+                    "sizes": "96x96"
+                }
+            ]
+        },
+        {
+            "name": "Teknofest Sosyal",
+            "short_name": "Teknofest",
+            "description": "Pusati 360 Teknofest Sosyal sayfasını ziyaret et",
+            "url": "https://sosyal.teknofest.app/@pusati360",
+            "icons": [
+                {
+                    "src": "/pusati360-1.png",
+                    "sizes": "96x96"
+                }
+            ]
+        }
+    ]
+}
